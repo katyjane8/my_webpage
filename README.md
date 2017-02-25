@@ -1,6 +1,5 @@
 ## I AM A UNICORN
 
-I use my unique powers for good, not evil.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -12,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # I AM A UNICORN
-## Header 2
+## I use my unique powers for good, not evil.
 ### Header 3
 
 - Bulleted
